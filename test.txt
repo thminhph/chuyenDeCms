@@ -4,4 +4,9 @@ bbb
 qwqwqq
 >>>>>>> origin/week1
 rfff
+<<<<<<< HEAD
+aa
+=======
+ee
+>>>>>>> origin/week1
 aa
